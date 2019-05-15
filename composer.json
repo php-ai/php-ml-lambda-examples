@@ -10,8 +10,10 @@
         }
     ],
     "require": {
-        "php-ai/php-ml": "^0.7.0",
-        "symfony/console": "^4.2"
+        "ext-json": "*",
+        "php-ai/php-ml": "dev-master",
+        "symfony/console": "^4.2",
+        "mnapoli/bref": "^0.3"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14"

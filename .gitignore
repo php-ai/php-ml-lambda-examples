@@ -2,3 +2,4 @@
 humbuglog.*
 /bin/phpunit
 .php_cs.cache
+.stack.yaml
